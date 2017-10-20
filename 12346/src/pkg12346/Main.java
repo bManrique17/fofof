@@ -17,6 +17,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("añkfdsjgfj");
         System.out.println("local");
+        int x;
     }
     
 }
